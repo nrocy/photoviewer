@@ -12,4 +12,6 @@
 
 @property (assign) IBOutlet NSWindow *window;
 
+- (IBAction)search:(id)sender;
+
 @end
